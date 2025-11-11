@@ -82,7 +82,7 @@ BTech : Computer Science and Engineering Student <a href="https://aktu.ac.in/">D
 
 <div align="center">
 
-![VisitorCount](https://komarev.com/ghpvc/?username=cosmos-dx&label=PROFILE+VIEWS)
+![VisitorCount](https://komarev.com/ghpvc/?username=abhishek-0118&label=PROFILE+VIEWS)
 
 </div>
 
